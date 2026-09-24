@@ -64,6 +64,19 @@ The dashboard provides an interactive analysis of:
 
 Interactive filters and visualizations allow the data to be explored from different perspectives.
 
+🖼️ Dashboard Preview
+
+Dashboard View 1
+
+![Superstore Sales Dashboard](Superstore%20sales%20screenshot%20%282%29.png)
+
+Dashboard View 2
+
+![Superstore Sales Dashboard](Superstore%20sales%20screenshot.png)
+
+Dashboard View 3
+
+![Superstore Sales Dashboard](Superstore_sales%20screenshot.png)
 
 💡 Key Insights
 
